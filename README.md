@@ -2,15 +2,15 @@
 
 To install the repository on your local machine:
 1. Navigate to your local folder in the command line
-   `cd myfolder'
+   `cd myfolder`
 2. Clone
-   ` git clone https://github.com/StefanoWind/und_lidar_processing.git`
+   `git clone https://github.com/StefanoWind/und_lidar_processing.git`
    
 To install dependencies:
 1. Clone FIEXTA anywhere on your machine
    `git clone https://github.com/StefanoWind/FIEXTA.git`
 3. Install LiDARGO on your current environment (if using Spyder, use Anaconda prompt; if using VS Code, `conda activate myenvironment` first)
-   `cd FIEXTA/lidargo' to navigate where the setup.py for LiDARGO lives.
+   `cd FIEXTA/lidargo' to navigate where the setup.py for LiDARGO lives and then
    `pip install -e .` to install editable package (easier to debug)
 
 To process files:
