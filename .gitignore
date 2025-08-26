@@ -1,3 +1,14 @@
+#Custom
+*.png
+*.csv
+*.xlsx
+*.cdf
+*.nc
+*.mp4
+*.txt
+*.yaml
+*.hpl
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
