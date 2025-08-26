@@ -10,7 +10,7 @@ To install dependencies:
 1. Clone FIEXTA anywhere on your machine
    `git clone https://github.com/StefanoWind/FIEXTA.git`
 3. Install LiDARGO on your current environment (if using Spyder, use Anaconda prompt; if using VS Code, `conda activate myenvironment` first)
-   `cd FIEXTA/lidargo' to navigate where the setup.py for LiDARGO lives and then
+   `cd FIEXTA/lidargo` to navigate where the setup.py for LiDARGO lives and then
    `pip install -e .` to install editable package (easier to debug)
 
 To process files:
