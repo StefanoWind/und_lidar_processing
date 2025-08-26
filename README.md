@@ -1,4 +1,4 @@
-#Processor of raw Halo XR lidar data with LiDARGO
+# Processor of raw Halo XR lidar data with LiDARGO
 
 To install the repository on your local machine:
 1. Navigate to your local folder in the command line
