@@ -20,9 +20,9 @@ To process files:
    ```yaml
    
    path_data: 'myfolder/und_lidar_processing/data/' # data root folder
-   path_config_format: 'myfolder/und_lidar_processing/configs/config_und_a0.xlsx'
-   path_config_stand: 'myfolder/und_lidar_processing/configs/config_und_b0.xlsx'
-   channels: ['s1.lidar.z01.raw'] # subfolder of path_data where raw files live
+   path_config_format: 'myfolder/und_lidar_processing/configs/config_und_a0.xlsx' #path to configuration for LiDARGO/format
+   path_config_stand: 'myfolder/und_lidar_processing/configs/config_und_b0.xlsx' #path to configuration for LiDARGO/standardize
+   channels: ['s1.lidar.z01.raw'] #subfolder of path_data where raw files live
 
 3. Create LiDARGO config (more complex, provided [here](https://drive.google.com/drive/folders/1A-9mMn6lgOVZDhJA53ZkaE6CDKcDpdKd))
                 
